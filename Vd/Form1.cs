@@ -16,5 +16,10 @@ namespace Vd
         {
             InitializeComponent();
         }
+        public void HuongDanLamTaiNha()\
+        {
+            Messenger.Show("Hello các bạn");
+        }
+        
     }
 }
